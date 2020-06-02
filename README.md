@@ -1,3 +1,4 @@
+# README de exemplo em uma aula de um BOOTCAMP da Digital Innovation One:
 # Projeto de Mapeamento Covid 19
 
 Projeto para mapear e interpretar os dados da Covid 19 consumindo uma API com ReactJS e PWA.
@@ -11,4 +12,4 @@ Bibliotecas e tecnologias utilizadas:
 
 [Teste](https://i.imgur.com/wY58dhf.png)
 
-![Dashboard Teste](https://i.imgur.com/wY58dhf.png) "Dashboard Teste")
+![Dashboard Teste](https://i.imgur.com/wY58dhf.png)
