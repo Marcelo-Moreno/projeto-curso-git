@@ -10,6 +10,6 @@ Bibliotecas e tecnologias utilizadas:
 - PWA;
 - Material UI;
 
-[Teste](https://i.imgur.com/wY58dhf.png)
+[Teste](https://i.imgur.com/J4bXj8L.jpg)
 
 ![Dashboard Teste](https://i.imgur.com/J4bXj8L.jpg)
