@@ -12,4 +12,4 @@ Bibliotecas e tecnologias utilizadas:
 
 [Teste](https://i.imgur.com/wY58dhf.png)
 
-![Dashboard Teste](https://i.imgur.com/wY58dhf.png)
+![Dashboard Teste](https://i.imgur.com/J4bXj8L.jpg)
